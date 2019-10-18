@@ -45,6 +45,7 @@ Note that reversing in this context means understanding (mainly) x86(_64) binari
 * ASLR
 * Ret2Libc
 * ROP
+* format string
 * Heap overflows
 
 ## Examples
