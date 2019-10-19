@@ -23,7 +23,7 @@ int main() {
         printf("0x");
         char *x = buf[choice];
         for (int i = 7; i >= 0 ; i--)
-            printf("%02x", *(x+i));
+            printf("%02x", (unsigned char)*(x+i));
         printf("\n");
 
         ctr = 0;
