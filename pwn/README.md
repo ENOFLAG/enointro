@@ -19,6 +19,10 @@ Note that reversing in this context means understanding (mainly) x86(_64) binari
 * pwntools
 * claripy
 
+#### Pwning
+* onegadget
+* ropper
+
 #### Misc
 * file
 * checksec
