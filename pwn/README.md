@@ -51,6 +51,6 @@ Note that reversing in this context means understanding (mainly) x86(_64) binari
 ## Examples
 There will be examples provided with exploit for:
 * Buffer overflow with `win` function
-* Buffer overflow with `win` function and ASLR
 * Buffer overflow with `win` function and Cookies
+* Buffer overflow with `win` function and ASLR
 * Buffer overflow without `win` function and ASLR
